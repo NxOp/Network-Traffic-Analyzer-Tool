@@ -60,6 +60,9 @@ The Network Traffic Analyzer Tool is designed to be cross-platform and works on 
 
 Please note that Python must be installed on your system for the tool to work. Additionally, ensure you have the necessary permissions to capture packets on the selected network interface.
 
+## ScreenShot
+<img width="1159" alt="image" src="https://github.com/NxOp/Network-Traffic-Analyzer-Tool-/assets/143170755/657383a8-8eb7-4e86-b8e8-b0243248dabf">
+
 ## Disclaimer
 
 This tool is intended for educational and informational purposes only. It does not provide advanced features like full-fledged network security analysis or intrusion detection. Always use professional and robust tools for actual security purposes.
